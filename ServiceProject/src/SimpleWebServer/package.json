@@ -1,0 +1,12 @@
+{
+  "name": "simpleserver",
+  "version": "1.0.0",
+  "description": "Simple Web Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "S. Saeed Hosseini",
+  "license": "ISC"
+}
